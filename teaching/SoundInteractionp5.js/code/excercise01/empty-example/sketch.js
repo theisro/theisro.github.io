@@ -9,7 +9,7 @@ function setup() {
 function draw() {
   // put drawing code here
     
-//    stroke(255,255,255)
+stroke(255,255,255);
   //  line(400,200,100,100);
 //    line(100,200,400,100);
     
